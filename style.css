@@ -110,7 +110,11 @@ section .content {
 .order h3 {
   margin: 10px;
   font-size: 1.5rem;
-  color: #ffffff;
+  color: #000000;
+  /* background-color: rgba(1, 1, 1, 0.8);
+  border-radius: 10px;
+  min-width: 30%;
+  margin-left: 20px; */
 }
 .order button {
   min-width: 50%;
